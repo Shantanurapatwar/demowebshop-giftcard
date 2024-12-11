@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-11T17:05:57 IST" name="Default suite" finished-at="2024-12-11T17:06:19 IST" duration-ms="21820">
+    <groups>
+    </groups>
+    <test started-at="2024-12-11T17:05:57 IST" name="Default test" finished-at="2024-12-11T17:06:19 IST" duration-ms="21820">
+      <class name="Functionaltesting.AddProduct">
+        <test-method is-config="true" signature="preConditions()[pri:0, instance:Functionaltesting.AddProduct@18271936]" started-at="2024-12-11T17:05:57 IST" name="preConditions" finished-at="2024-12-11T17:06:02 IST" duration-ms="4457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method is-config="true" signature="logindws()[pri:0, instance:Functionaltesting.AddProduct@18271936]" started-at="2024-12-11T17:06:02 IST" name="logindws" finished-at="2024-12-11T17:06:08 IST" duration-ms="5851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindws -->
+        <test-method signature="main()[pri:0, instance:Functionaltesting.AddProduct@18271936]" started-at="2024-12-11T17:06:08 IST" name="main" finished-at="2024-12-11T17:06:18 IST" duration-ms="10517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="logotdws()[pri:0, instance:Functionaltesting.AddProduct@18271936]" started-at="2024-12-11T17:06:18 IST" name="logotdws" finished-at="2024-12-11T17:06:19 IST" duration-ms="922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logotdws -->
+      </class> <!-- Functionaltesting.AddProduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
